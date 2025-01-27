@@ -21,17 +21,7 @@
 
 ---
 
-## 🌟 Öne Çıkan Projeler  
-<div align="center">
-  <a href="git@github.com:mdrmz/Smart_Agriculture.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdrmz&repo=akilli-tank&theme=dark" />
-  </a>
-  <a href="https://github.com/mdrmz/kuzgun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdrmz&repo=kuzgun&theme=dark" />
-  </a>
-</div>
 
----
 
 ## 🛠️ Kullandığım Teknolojiler  
 <div align="center">
