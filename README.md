@@ -53,9 +53,14 @@
 
 ## ⏳ Son Aktivite  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrmz&theme=react-dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrmz&theme=github_dark" alt="Repos per Language" width="60%">
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrmz&theme=github_dark" alt="Most Commit Language" width="60%">
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrmz&theme=github_dark" alt="GitHub Stats" width="60%">
+</div>
 ---
 
 ## 🌍 Canlı Ziyaretçi Sayacı  
