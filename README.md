@@ -14,9 +14,9 @@
 ### ⚡ Quick Bio
 
 - 🚀 **Founder & CTO** at Piksel Analitik | Architecting intelligent systems from end to end.
-- 🧠 **Focus:** Computer Vision (YOLOv11), Embedded Hardware (Raspberry Pi/FPGA), and High-Performance UI (PySide6).
-- ⚔️ **Currently Building:** Autonomous drone communication via LoRa and intelligent ERP systems.
-- 🎓 **Background:** Computer Engineer bridging the gap between software and hardware through Mechatronics.
+- 🧠 **Focus:** Computer Vision (YOLOv11), Embedded Systems, and High-Performance UI (PySide6).
+- ⚙️ **Hardware:** Bringing AI to the edge (Raspberry Pi/Arduino) & rapid prototyping with 3D printing (Flashforge/Creality).
+- 🎓 **Background:** Computer Engineer bridging the gap between software and the physical world through Mechatronics.
 
 ---
 
@@ -30,12 +30,13 @@
 
 ---
 
-### 🚀 Featured Blueprints
+### 🚀 Featured Blueprints & Edge Systems
 
-* 🎯 **[SkyGuard AI](https://github.com/mdrmz/skyguard-ai):** Real-time UAV detection AR platform leveraging YOLOv8-Nano and Vuforia.
+* 🛰️ **Autonomous Drone Telemetry:** Developing a custom Python ground station and SPI communication architecture between Raspberry Pi and Arduino using **LoRa** modules for long-range data transmission.
+* 🚗 **Edge ALPR:** A fully autonomous, offline license plate recognition system engineered to run seamlessly on a **Raspberry Pi 5**.
+* 🏭 **Piksel-Net & Piksel-ERP:** Live, AI-driven image analysis and comprehensive enterprise resource planning systems deployed for industrial clients.
+* 🎯 **SkyGuard AI:** Real-time UAV detection AR platform leveraging YOLOv8-Nano and Vuforia.
 * 🦅 **Ares & Kuzgun:** AI-driven autonomous combat and air defense architectures.
-* ♻️ **Genesis:** Industrial vision system for automated waste sorting with high precision.
-* 🫀 **Cardia:** AI-assisted diagnostic tool analyzing fetal heart signals.
 
 ---
 
@@ -47,5 +48,5 @@
 </p>
 
 <p align="center">
-  <i>"Imagination becomes reality through code."</i>
+  <i>"Imagination becomes reality through code. My job is to orchestrate that transformation."</i>
 </p>
