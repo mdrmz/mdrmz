@@ -1,7 +1,7 @@
 <h1 align="center">Mehmet Durmaz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=CTO+%40+Piksel+Analitik;AI+%26+Computer+Vision+Engineer;Mechatronics+Master's+Student;Building+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=CTO+%40+Piksel+Analitik;AI+%26+Computer+Vision+Engineer;EEE+Master's+Student;Building+Autonomous+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 🚀 **Founder & CTO** at Piksel Analitik | Architecting intelligent systems from end to end.
 - 🧠 **Focus:** Computer Vision (YOLOv11), Embedded Systems, and High-Performance UI (PySide6).
 - ⚙️ **Hardware:** Bringing AI to the edge (Raspberry Pi/Arduino) & rapid prototyping with 3D printing (Flashforge/Creality).
-- 🎓 **Background:** Computer Engineer bridging the gap between software and the physical world through Mechatronics.
+- 🎓 **Background:** Computer Engineer bridging the gap between software and the physical world through EEE.
 
 ---
 
@@ -40,13 +40,15 @@
 
 ---
 
-### 📊 Digital Footprint
+### 📊 Digital Footprint & Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrmz&show_icons=true&theme=transparent&hide_border=true&title_color=00FF66&text_color=8b949e&icon_color=00FF66" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrmz&layout=compact&theme=transparent&hide_border=true&title_color=00FF66&text_color=8b949e" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrmz&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" />
 </p>
 
 <p align="center">
-  <i>"Imagination becomes reality through code. My job is to orchestrate that transformation."</i>
+  <a href="https://github.com/mdrmz?tab=followers"><img src="https://img.shields.io/github/followers/mdrmz?style=for-the-badge&color=00FF66&logo=github&logoColor=black" /></a>
+  <a href="https://github.com/mdrmz?tab=repositories"><img src="https://img.shields.io/github/stars/mdrmz?style=for-the-badge&color=00FF66&logo=github&logoColor=black" /></a>
+  <a href="https://github.com/mdrmz?tab=repositories"><img src="https://img.shields.io/github/repos/mdrmz?style=for-the-badge&color=00FF66&logo=github&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mdrmz&label=Profile%20Views&color=00FF66&style=for-the-badge" />
 </p>
